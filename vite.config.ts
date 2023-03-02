@@ -93,7 +93,7 @@ export default defineConfig({
   },
   build: {
     minify: "terser",
-    outDir: "docs",
+    outDir: "dist",
 
   },
   optimizeDeps: {
